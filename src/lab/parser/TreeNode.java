@@ -1,9 +1,6 @@
 package lab.parser;
 
 public class TreeNode {
-	/*
-	 * Сделать приватным и гетеры/сетеры
-	 */
 	public String data;
 	public TreeNode left;
 	public TreeNode right;
